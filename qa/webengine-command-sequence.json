@@ -1,0 +1,52 @@
+[
+  {
+    "kind": "KeyPress",
+    "key": 16777249,
+    "mods": 67108864
+  },
+  {
+    "kind": "KeyPress",
+    "key": 16777249,
+    "mods": 67108864
+  },
+  {
+    "kind": "ShortcutOverride",
+    "key": 0,
+    "mods": 67108864
+  },
+  {
+    "kind": "ShortcutOverride",
+    "key": 0,
+    "mods": 67108864
+  },
+  {
+    "kind": "KeyPress",
+    "key": 0,
+    "mods": 67108864
+  },
+  {
+    "kind": "KeyPress",
+    "key": 0,
+    "mods": 67108864
+  },
+  {
+    "kind": "KeyRelease",
+    "key": 16777249,
+    "mods": 0
+  },
+  {
+    "kind": "KeyRelease",
+    "key": 16777249,
+    "mods": 0
+  },
+  {
+    "kind": "KeyRelease",
+    "key": 0,
+    "mods": 0
+  },
+  {
+    "kind": "KeyRelease",
+    "key": 0,
+    "mods": 0
+  }
+]
